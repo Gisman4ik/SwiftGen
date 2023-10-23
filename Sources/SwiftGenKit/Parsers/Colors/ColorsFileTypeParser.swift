@@ -4,7 +4,9 @@
 // MIT Licence
 //
 
+#if canImport(AppKit)
 import AppKit
+#endif
 import Foundation
 import PathKit
 
